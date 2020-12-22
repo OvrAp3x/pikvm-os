@@ -1,5 +1,5 @@
 # rpi3 for Raspberry Pi 3; rpi2 for the version 2, zerow for ZeroW
-BOARD = rpi4
+BOARD = zerow
 
 # Hardware configuration
 PLATFORM = v2-hdmi
