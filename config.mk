@@ -25,5 +25,5 @@ IPMI_ADMIN_PASSWD = admin
 # SD card device
 CARD = /dev/mmcblk0
 
-WIFI_ESSID = AP3X
+WIFI_ESSID = AP3X_IoT
 WIFI_PASSWD = wehasinter.net
